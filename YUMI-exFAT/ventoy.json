@@ -1,0 +1,14 @@
+{
+"persistence": [
+{"":"","":""},
+{
+}
+]
+}
+{
+"theme": {
+"file": "/ventoy/theme/YUMI/theme.txt",
+"gfxmode": "1024x768",
+"ventoy_color": "#000"
+}
+}
