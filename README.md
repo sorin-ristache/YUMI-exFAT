@@ -12,9 +12,10 @@ There is a Windows version and a Linux version. (The Linux version is not part o
 
 The Windows version consists of .nsh files which belong to the "Nullsoft Scriptable Installer System".
 
+There seems to be no official Git repo, only the source code in a zip file. This is why I created this unofficial repo.
+
+
 
 Notes
 
-Yumi is free software (GPL 3.0).
-
-There seems to be no official Git repo, only the source code in a zip file. This is why I created this unofficial repo.
+YUMI is free software (GPL 3.0 - https://www.gnu.org/licenses/gpl-3.0.en.html). You can contact me if you want to know why I chose this license, or if you want to debate the merits of  GNU Project's more restrictive licenses (strong copyleft, like GPL 3, AGPL 3, etc.) versus the more permissive open source licenses (MIT, Apache 2.0, etc.) or the weak copyleft ones (LGPL 3, CPL 1.0, Eclipse 2.0, Mozilla 1.1, etc.).
