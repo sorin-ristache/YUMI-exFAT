@@ -6,7 +6,7 @@ The result USB drive is able to boot with both UEFI firmware and legacy BIOS fir
 
 After YUMI has added one or more OSes and tools, the USB stick is still visible as normal drive under both Windows and Linux, so that other necessary files (like checklist files, other documentation files, etc.) can be further stored on it.
 
-This is why I like this software so much, and I wanted to save here at GitHub a public copy of it for safekeeping.
+This tool was very useful to me when I needed to install and config new laptops (Linux and Windows), and to troubleshoot non-bootable computers, and this is why I like this software so much, and I wanted to save here at GitHub a public copy of it for safekeeping.
 
 There is a Windows version and a Linux version. (The Linux version is not part of this repo, and was written in gambas, a visual-basic-for-linux language.)
 
