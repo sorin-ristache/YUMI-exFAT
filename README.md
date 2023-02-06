@@ -2,7 +2,7 @@ YUMI
 
 YUMI ("Your Universal Multiboot Installer") is a nifty little tool for creating bootable multi-ISO-image USB drives, which supports dozens of Linux distros and system tools, and can automatically download the ISO images for you. Able to add to the same USB drive many bootable ISO images of Linux distros and system tools, and ISO images of Windows 8 / Windows 10 / Windows 11. You are limited only by the total capacity (storage size) of your USB drive.
 
-The result USB drive is able to boot with both UEFI firmware and legacy BIOS firmware.
+Due to the exFAT partition type of the disk partition created on the USB drive by this flavor of YUMI, the result USB drive is able to boot with both UEFI BIOS firmware and legacy BIOS firmware. There is a different flavor of YUMI for creating bootable USB drives for legacy BIOS only machines, and yet another flavor of YUMI for UEFI BIOS only machines, but I chose the best of both worlds with this exFAT partition type.
 
 After YUMI has added one or more OSes and tools, the USB stick is still visible as normal drive under both Windows and Linux, so that other necessary files (like checklist files, other documentation files, etc.) can be further stored on it.
 
