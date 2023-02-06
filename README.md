@@ -8,11 +8,9 @@ After YUMI has put an OS on it, the usb stick is still usable to store files and
 
 This is why I like this software and created this repo.
 
-There is a windows and a linux version.
+There is a Windows version and a Linux version. (The Linux version is not part of this repo, and was written in gambas, a visual-basic-for-linux language.)
 
 It turns out the Windows version consists of .nsh files which belong to the "Nullsoft Scriptable Installer System".
-
-The linux version (not part of this repo) is written in gambas a visual-basic-for-linux language.
 
 
 Notes
