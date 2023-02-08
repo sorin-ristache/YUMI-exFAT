@@ -17,4 +17,4 @@ NOTES
 
 YUMI is free software, available under GPL 3.0 license from GNU Project (https://www.gnu.org/licenses/gpl-3.0.en.html).
 
-You can contact me if you want to know why I chose this license, or if you want to debate the merits of GNU Project's more restrictive licenses (strong copyleft, like GPL 3, AGPL 3, etc.) versus the more permissive open source licenses (MIT, Apache 2.0, etc.) or the weak copyleft ones (LGPL 3, CPL 1.0, Eclipse 2.0, Mozilla 1.1, etc.).
+You can contact me by email (sorin dot ristache at gmail dot com) if you want to know why I chose this license, or if you want to debate the merits of GNU Project's more restrictive licenses (strong copyleft, like GPL 3, AGPL 3, etc.) versus the more permissive open source licenses (MIT, Apache 2.0, etc.) or the weak copyleft ones (LGPL 3, CPL 1.0, Eclipse 2.0, Mozilla 1.1, etc.).
